@@ -13,5 +13,5 @@ At the moment there are 4 programs here:
 
 # Todo
 * add check to see whether tour is open or closed
-* create a test to chekc if solution is actually valid (hopefully they all are)
+* create a test to check if solution is actually valid (hopefully they all are)
 * dump completed tours into "something" and keep a record of solved tours
